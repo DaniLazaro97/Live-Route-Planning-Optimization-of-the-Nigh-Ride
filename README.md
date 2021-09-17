@@ -1,2 +1,2 @@
 # Live-Route-Planning-Optimization-of-the-Nigh-Ride
-This project belongs to the Complex Systems course of the master's in Artificial Intelligence.
+This project was developed and submitted for the Complex Systems course of the master's in Artificial Intelligence.
